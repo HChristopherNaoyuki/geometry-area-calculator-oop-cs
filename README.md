@@ -77,12 +77,14 @@ geometry-area-calculator-oop-cs/
 
 ## OOP Principles Demonstrated
 
+|--------------|----------------------------------------------------------------------------|
 | Principle    | Description                                                                |
 | ------------ | -------------------------------------------------------------------------- |
 | Inheritance  | `Rectangle` and `Circle` inherit from the base class `Shape`.              |
 | Abstraction  | `Shape` class provides a common interface for all shapes.                  |
 | Polymorphism | `Display` method can be overridden by derived classes.                     |
 | Interface    | `IShape` enforces the implementation of `CalculateArea` across all shapes. |
+|--------------|----------------------------------------------------------------------------|
 
 ---
 
