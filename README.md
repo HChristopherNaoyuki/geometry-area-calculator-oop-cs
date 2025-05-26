@@ -23,6 +23,7 @@ A simple object-oriented console application written in C# to calculate and disp
 
 ## Project Structure
 
+```bash
 geometry-area-calculator-oop-cs/
 │
 ├── Program.cs          // Entry point for user interaction
@@ -32,6 +33,7 @@ geometry-area-calculator-oop-cs/
 ├── Rectangle.cs        // Rectangle class implementing Shape and IShape
 ├── Circle.cs           // Circle class implementing Shape and IShape
 └── README.md           // Project documentation
+```
 
 ---
 
