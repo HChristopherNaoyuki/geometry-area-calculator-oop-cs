@@ -4,12 +4,12 @@ A simple object-oriented console application written in C# to calculate and disp
 
 ---
 
-## 📌 Project Name
+## Project Name
 **`geometry-area-calculator-oop-cs`**
 
 ---
 
-## 🧩 Features
+## Features
 
 - Calculate area of **Rectangle**
 - Calculate area of **Circle**
@@ -21,7 +21,7 @@ A simple object-oriented console application written in C# to calculate and disp
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 geometry-area-calculator-oop-cs/
 │
@@ -35,7 +35,7 @@ geometry-area-calculator-oop-cs/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - C#
 - .NET Console Application
@@ -43,7 +43,7 @@ geometry-area-calculator-oop-cs/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -75,7 +75,7 @@ geometry-area-calculator-oop-cs/
 
 ---
 
-## 🧠 OOP Principles Demonstrated
+## OOP Principles Demonstrated
 
 | Principle    | Description                                                                |
 | ------------ | -------------------------------------------------------------------------- |
@@ -86,13 +86,13 @@ geometry-area-calculator-oop-cs/
 
 ---
 
-## 📃 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this repo, open issues, or submit pull requests to improve functionality or add new shape types.
 
